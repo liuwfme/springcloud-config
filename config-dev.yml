@@ -1,2 +1,1 @@
-config:
-  info: "SpringCloud-config,version=1"
+configInfoS: "SpringCloud-config,version=1"
